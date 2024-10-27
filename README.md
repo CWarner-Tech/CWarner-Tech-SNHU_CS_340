@@ -1,4 +1,5 @@
 #SNHU_CS_30_Courtney Warner
+
 How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
 
 Writing maintainable, readable, and adaptable code is essential for scalable development. In my CRUD Python module, I separated the Create, Read, Update, and Delete functions to keep each one focused and reusable, making them easier to debug and understand. By using Python’s pymongo library and creating a central connection method, I made the code modular and readable, allowing for easy adaptation in future projects. The structured CRUD module streamlined database connectivity in Project Two’s dashboard, letting me focus on UI while maintaining reliable data operations.
